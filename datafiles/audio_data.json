@@ -1,0 +1,1740 @@
+[
+	[
+		{
+			"__Elephant_Constructor__" : "class_audio_container",
+			"__Elephant_Schema_Version__" : 0,
+			"blend_map" : [],
+			"contents_serialize" : [
+				"Bgm (gamefile))",
+				"Sfx (gamefile)",
+				"SfxWalkCloud",
+				"SfxWalkGrass",
+				"SfxWalkStone",
+				"SfxJump",
+				"SfxSwitch",
+				"SfxDeath",
+				"SfxStgClear",
+				"SfxBump",
+				"SfxStar1",
+				"SfxStar2",
+				"SfxStar3",
+				"SfxUIChange",
+				"SfxUIConfirm",
+				"SfxBrokenStone",
+				"SfxUIStart",
+				"SfxCrow",
+				"SfxExplosion",
+				"BgmSilence",
+				"BgmHUB",
+				"BgmHubOnlyOne",
+				"BgmIntroSfx",
+				"BgmIntro",
+				"SfxOpenDoor",
+				"SfxTocToc",
+				"SfxCloseDoor",
+				"SfxBatMove",
+				"SfxSpecialStar",
+				"BgmEnding",
+				"SfxEnding",
+				"SfxStoneDoor",
+				"BgmGrassNight",
+				"BgmCloudNight",
+				"BgmSpaceNight",
+				"BgmFlowerNight",
+				"BgmGrass",
+				"BgmSpace",
+				"BgmCloud",
+				"BgmFlower",
+				"SfxStar4",
+				"SfxBat",
+				"BgmHub1",
+				"BgmHub2",
+				"BgmHub3",
+				"BgmHub4",
+				"BgmHub",
+				"SfxBoing",
+				"BgmDungeon",
+				"BgmDungeonNight"
+			],
+			"name" : "Sounds",
+			"parameters" : []
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_container",
+			"__Elephant_Schema_Version__" : 0,
+			"blend_map" : [
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				},
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				},
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				},
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				}
+			],
+			"contents_serialize" : [
+				"$sfx_cloud_04",
+				"$sfx_cloud_03",
+				"$sfx_cloud_02",
+				"$sfx_cloud_01"
+			],
+			"gain" : -65.3762682352,
+			"name" : "SfxWalkCloud",
+			"parameters" : [],
+			"parent" : "Sounds",
+			"pitchmax" : 6.4024390244,
+			"pitchmin" : -5.487804878
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_container",
+			"__Elephant_Schema_Version__" : 0,
+			"blend_map" : [
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				}
+			],
+			"contents_serialize" : [
+				"$sndWalkGrass"
+			],
+			"gain" : -30.1189607069,
+			"name" : "SfxWalkGrass",
+			"parameters" : [],
+			"parent" : "Sounds",
+			"pitchmax" : 42.9453821439,
+			"pitchmin" : -29.2258699488
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_container",
+			"__Elephant_Schema_Version__" : 0,
+			"blend_map" : [
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				}
+			],
+			"contents_serialize" : [
+				"$sndWalkStone"
+			],
+			"gain" : -74.1924254889,
+			"name" : "SfxWalkStone",
+			"parameters" : [],
+			"parent" : "Sounds",
+			"pitchmax" : 13,
+			"pitchmin" : -0.1951219512
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_container",
+			"__Elephant_Schema_Version__" : 0,
+			"blend_map" : [
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				}
+			],
+			"contents_serialize" : [
+				"$snd_jump_player"
+			],
+			"gain" : -15.4861045401,
+			"name" : "SfxJump",
+			"parameters" : [],
+			"parent" : "Sounds",
+			"pitchmax" : 2.743902439,
+			"pitchmin" : -4.5731707317
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_container",
+			"__Elephant_Schema_Version__" : 0,
+			"blend_map" : [
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				}
+			],
+			"contents_serialize" : [
+				"$snd_switch"
+			],
+			"gain" : -90.4628144424,
+			"name" : "SfxSwitch",
+			"parameters" : [],
+			"parent" : "Sounds",
+			"pitchmax" : 13,
+			"pitchmin" : -13
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_container",
+			"__Elephant_Schema_Version__" : 0,
+			"blend_map" : [
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				},
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				},
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				},
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				},
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				}
+			],
+			"contents_serialize" : [
+				"$sfx_luano_death_pause_01",
+				"$sfx_luano_death_pause_02",
+				"$sfx_luano_death_pause_03",
+				"$sfx_luano_death_pause_04",
+				"$sfx_luano_death_pause_05"
+			],
+			"gain" : -63.6596561794,
+			"name" : "SfxDeath",
+			"parameters" : [],
+			"parent" : "Sounds",
+			"pitchmax" : 6.5975609756,
+			"pitchmin" : -6.5975609756
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_container",
+			"__Elephant_Schema_Version__" : 0,
+			"blend_map" : [
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				}
+			],
+			"contents_serialize" : [
+				"$sndStgClear"
+			],
+			"gain" : -80.9550868669,
+			"name" : "SfxStgClear",
+			"parameters" : [],
+			"parent" : "Sounds"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_container",
+			"__Elephant_Schema_Version__" : 0,
+			"blend_map" : [
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				}
+			],
+			"contents_serialize" : [
+				"$snd_bump"
+			],
+			"gain" : -42.6975164008,
+			"name" : "SfxBump",
+			"parameters" : [],
+			"parent" : "Sounds",
+			"pitchmax" : 13,
+			"pitchmin" : -13
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_container",
+			"__Elephant_Schema_Version__" : 0,
+			"blend_map" : [
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				}
+			],
+			"contents_serialize" : [
+				"$sndStar1"
+			],
+			"gain" : -65.6369421553,
+			"name" : "SfxStar1",
+			"parameters" : [],
+			"parent" : "Sounds"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_container",
+			"__Elephant_Schema_Version__" : 0,
+			"blend_map" : [
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				}
+			],
+			"contents_serialize" : [
+				"$sndStar2"
+			],
+			"gain" : -66.0192146357,
+			"name" : "SfxStar2",
+			"parameters" : [],
+			"parent" : "Sounds"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_container",
+			"__Elephant_Schema_Version__" : 0,
+			"blend_map" : [
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				}
+			],
+			"contents_serialize" : [
+				"$sndStar3"
+			],
+			"gain" : -65.2739302182,
+			"name" : "SfxStar3",
+			"parameters" : [],
+			"parent" : "Sounds"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_container",
+			"__Elephant_Schema_Version__" : 0,
+			"blend_map" : [
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				}
+			],
+			"contents_serialize" : [
+				"$sndUiChange"
+			],
+			"gain" : -87.812873907,
+			"name" : "SfxUIChange",
+			"parameters" : [],
+			"parent" : "Sounds",
+			"pitchmax" : 1.1097560976,
+			"pitchmin" : -1.1097560975
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_container",
+			"__Elephant_Schema_Version__" : 0,
+			"blend_map" : [
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				},
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				}
+			],
+			"contents_serialize" : [
+				"$sndUiChange"
+			],
+			"gain" : -87.7894909507,
+			"name" : "SfxUIConfirm",
+			"parameters" : [],
+			"parent" : "Sounds",
+			"pitch" : 40.4411764706,
+			"pitchmax" : 2.024390244,
+			"pitchmin" : -2.024390244,
+			"type" : 2
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_container",
+			"__Elephant_Schema_Version__" : 0,
+			"blend_map" : [
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				}
+			],
+			"contents_serialize" : [
+				"$snd_brokestone"
+			],
+			"gain" : -29.2066462047,
+			"name" : "SfxBrokenStone",
+			"parameters" : [],
+			"parent" : "Sounds",
+			"pitchmax" : 14.6341463415,
+			"pitchmin" : -16.4634146341
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_container",
+			"__Elephant_Schema_Version__" : 0,
+			"blend_map" : [
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				}
+			],
+			"contents_serialize" : [
+				"$sndStarGame"
+			],
+			"gain" : -51.0169488663,
+			"name" : "SfxUIStart",
+			"parameters" : [],
+			"parent" : "Sounds"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_container",
+			"__Elephant_Schema_Version__" : 0,
+			"blend_map" : [
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				}
+			],
+			"contents_serialize" : [
+				"$sfx_bird_crow"
+			],
+			"gain" : -80.778774493,
+			"name" : "SfxCrow",
+			"parameters" : [],
+			"parent" : "Sounds",
+			"pitchmax" : 7.512195122,
+			"pitchmin" : -7.512195122
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_container",
+			"__Elephant_Schema_Version__" : 0,
+			"blend_map" : [
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				}
+			],
+			"contents_serialize" : [
+				"$snd_kick"
+			],
+			"gain" : -56.9756026823,
+			"name" : "SfxExplosion",
+			"parameters" : [],
+			"parent" : "Sounds",
+			"pitchmax" : 13,
+			"pitchmin" : -13
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_container",
+			"__Elephant_Schema_Version__" : 0,
+			"blend_map" : [
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				}
+			],
+			"contents_serialize" : [
+				"$bgm_silence"
+			],
+			"gain" : -100,
+			"name" : "BgmSilence",
+			"parameters" : [],
+			"parent" : "Sounds"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_container",
+			"__Elephant_Schema_Version__" : 0,
+			"blend_map" : [
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				},
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0,
+					"cleft" : 24.7041420118,
+					"cright" : 63.9053254438,
+					"left" : 14.6449704142,
+					"right" : 73.6686390533
+				},
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0,
+					"cleft" : 34.7633136095,
+					"cright" : 77.0710059172,
+					"left" : 25.4437869822,
+					"right" : 85.5029585799
+				},
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0,
+					"cleft" : 49.852071006,
+					"cright" : 88.0177514793,
+					"left" : 39.4970414202,
+					"right" : 93.4911242604
+				},
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0,
+					"cleft" : 60.650887574,
+					"left" : 50.2958579881
+				}
+			],
+			"contents_serialize" : [
+				"$bgm_hub",
+				"$bgm_hub_01",
+				"$bgm_hub_02",
+				"$bgm_hub_03",
+				"$bgm_hub_04"
+			],
+			"gain" : -72.6761503971,
+			"loop" : 1,
+			"name" : "BgmHUB",
+			"parameters" : [
+				"HubParameterOnlyOne"
+			],
+			"parent" : "Sounds",
+			"type" : 2,
+			"volmax" : 0.007413259
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_container",
+			"__Elephant_Schema_Version__" : 0,
+			"blend_map" : [],
+			"contents_serialize" : [
+				"$bgm_hub_01",
+				"$bgm_hub_02",
+				"$bgm_hub_03",
+				"$bgm_hub_04",
+				"$bgm_hub"
+			],
+			"from_project" : true,
+			"name" : "hub",
+			"parameters" : [],
+			"parent" : "Bgm (gamefile))"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_container",
+			"__Elephant_Schema_Version__" : 0,
+			"blend" : 25,
+			"blend_map" : [
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				},
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0,
+					"cleft" : 23.5207100592,
+					"cright" : 26.6272189349,
+					"left" : 14.6449704142,
+					"right" : 36.5384615385
+				},
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0,
+					"cleft" : 48.0769230769,
+					"cright" : 51.775147929,
+					"left" : 38.6094674556,
+					"right" : 61.2426035503
+				},
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0,
+					"cleft" : 73.8165680473,
+					"cright" : 76.0355029586,
+					"left" : 65.5325443787,
+					"right" : 84.1715976331
+				},
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0,
+					"cleft" : 98.224852071,
+					"left" : 88.9053254438
+				}
+			],
+			"contents_serialize" : [
+				"$bgm_hub",
+				"$bgm_hub_01",
+				"$bgm_hub_02",
+				"$bgm_hub_03",
+				"$bgm_hub_04"
+			],
+			"gain" : -72.1238322373,
+			"loop" : 1,
+			"name" : "BgmHubOnlyOne",
+			"parameters" : [
+				"HubParameterOnlyOne"
+			],
+			"parent" : "Sounds",
+			"type" : 2
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_container",
+			"__Elephant_Schema_Version__" : 0,
+			"blend_map" : [
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				}
+			],
+			"contents_serialize" : [
+				"$bgm_introsfx"
+			],
+			"gain" : -86.1237189914,
+			"name" : "BgmIntroSfx",
+			"parameters" : [],
+			"parent" : "Sounds"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_container",
+			"__Elephant_Schema_Version__" : 0,
+			"blend_map" : [
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				}
+			],
+			"contents_serialize" : [
+				"$bgm_intro"
+			],
+			"gain" : -76.1444300879,
+			"name" : "BgmIntro",
+			"parameters" : [],
+			"parent" : "Sounds"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_container",
+			"__Elephant_Schema_Version__" : 0,
+			"blend_map" : [
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				}
+			],
+			"contents_serialize" : [
+				"$snd_porta_abre"
+			],
+			"gain" : -92.6052397062,
+			"name" : "SfxOpenDoor",
+			"parameters" : [],
+			"parent" : "Sounds",
+			"pitchmax" : 7.3170731707,
+			"pitchmin" : -8.2317073171,
+			"type" : 2
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_container",
+			"__Elephant_Schema_Version__" : 0,
+			"blend_map" : [
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				}
+			],
+			"contents_serialize" : [
+				"$snd_porta_knock"
+			],
+			"gain" : -89.1851467922,
+			"name" : "SfxTocToc",
+			"parameters" : [],
+			"parent" : "Sounds",
+			"pitchmax" : 6.5975609756,
+			"pitchmin" : -9.3414634146,
+			"type" : 2
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_container",
+			"__Elephant_Schema_Version__" : 0,
+			"blend_map" : [
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				}
+			],
+			"contents_serialize" : [
+				"$snd_porta_fecha"
+			],
+			"gain" : -94.0470147815,
+			"name" : "SfxCloseDoor",
+			"parameters" : [],
+			"parent" : "Sounds",
+			"pitch" : -1.7934002869,
+			"pitchmax" : -5.3823529412,
+			"pitchmin" : 5.3823529412
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_container",
+			"__Elephant_Schema_Version__" : 0,
+			"blend_map" : [],
+			"contents_serialize" : [
+				"$bgm_clouds",
+				"$bgm_intro",
+				"$bgm_clouds_night",
+				"$bgm_flower",
+				"$bgm_flower_night",
+				"$bgm_grass",
+				"$bgm_grass_night",
+				"$bgm_silence",
+				"$bgm_space",
+				"$bgm_spacenight",
+				"hub",
+				"$bgm_introsfx",
+				"$bgm_ending",
+				"$bgm_dungeon",
+				"$bgm_dungeon_night"
+			],
+			"from_project" : true,
+			"name" : "Bgm (gamefile))",
+			"parameters" : [],
+			"parent" : "Sounds"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_container",
+			"__Elephant_Schema_Version__" : 0,
+			"blend_map" : [],
+			"contents_serialize" : [
+				"Lipinho (gamefile)",
+				"$sndStar1",
+				"$sndStar2",
+				"$sndStar3",
+				"$snd_brokestone",
+				"$snd_estrela_secreta_head",
+				"$snd_estrela_secreta_lp",
+				"$snd_estrela_secreta_tail",
+				"$sfx_bird_crow",
+				"$snd_ending",
+				"UI (gamefile)",
+				"Doors (gamefile)",
+				"Morcego e Cogumelo (gamefile)"
+			],
+			"from_project" : true,
+			"name" : "Sfx (gamefile)",
+			"parameters" : [],
+			"parent" : "Sounds"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_container",
+			"__Elephant_Schema_Version__" : 0,
+			"blend_map" : [],
+			"contents_serialize" : [
+				"$sfx_cloud_01",
+				"$sfx_cloud_02",
+				"$sfx_cloud_03",
+				"$sfx_cloud_04",
+				"$sfx_luano_death_pause_01",
+				"$sfx_luano_death_pause_02",
+				"$sfx_luano_death_pause_03",
+				"$sfx_luano_death_pause_04",
+				"$sfx_luano_death_pause_05",
+				"$sndWalkCloud",
+				"$sndWalkGrass",
+				"$snd_bump",
+				"$snd_jump_player",
+				"$snd_kick",
+				"$snd_switch",
+				"$sndWalkStone"
+			],
+			"from_project" : true,
+			"name" : "Lipinho (gamefile)",
+			"parameters" : [],
+			"parent" : "Sfx (gamefile)"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_container",
+			"__Elephant_Schema_Version__" : 0,
+			"blend_map" : [],
+			"contents_serialize" : [
+				"$sndStarGame",
+				"$sndStgClear",
+				"$sndUiChange"
+			],
+			"from_project" : true,
+			"name" : "UI (gamefile)",
+			"parameters" : [],
+			"parent" : "Sfx (gamefile)"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_container",
+			"__Elephant_Schema_Version__" : 0,
+			"blend_map" : [],
+			"contents_serialize" : [
+				"$snd_porta_abre",
+				"$snd_porta_fecha",
+				"$snd_porta_knock",
+				"$snd_porta_pedr",
+				"$snd_warp",
+				"$snd_key"
+			],
+			"from_project" : true,
+			"name" : "Doors (gamefile)",
+			"parameters" : [],
+			"parent" : "Sfx (gamefile)"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_container",
+			"__Elephant_Schema_Version__" : 0,
+			"blend_map" : [],
+			"contents_serialize" : [
+				"$snd_cogumelo_01",
+				"$snd_cogumelo_02",
+				"$snd_cogumelo_03",
+				"$snd_cogumelo_04",
+				"$snd_morcego_01",
+				"$snd_morcego_02",
+				"$snd_morcego_03",
+				"$snd_morcego_04",
+				"$snd_morcego_05",
+				"$snd_morcego_06",
+				"$snd_morcego_move_01",
+				"$snd_morcego_move_02",
+				"$snd_morcego_move_03",
+				"$snd_morcego_move_04"
+			],
+			"from_project" : true,
+			"name" : "Morcego e Cogumelo (gamefile)",
+			"parameters" : [],
+			"parent" : "Sfx (gamefile)"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_container",
+			"__Elephant_Schema_Version__" : 0,
+			"blend_map" : [
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				},
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				},
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				},
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				}
+			],
+			"contents_serialize" : [
+				"$snd_morcego_move_01",
+				"$snd_morcego_move_02",
+				"$snd_morcego_move_03",
+				"$snd_morcego_move_04"
+			],
+			"gain" : -97.4808278607,
+			"name" : "SfxBatMove",
+			"parameters" : [],
+			"parent" : "Sounds",
+			"pitchmax" : 13,
+			"pitchmin" : -13
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_container",
+			"__Elephant_Schema_Version__" : 0,
+			"blend_map" : [
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				},
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				},
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				}
+			],
+			"contents_serialize" : [
+				"$snd_estrela_secreta_head",
+				"$snd_estrela_secreta_lp",
+				"$snd_estrela_secreta_tail"
+			],
+			"gain" : -80.8250934264,
+			"name" : "SfxSpecialStar",
+			"parameters" : [],
+			"parent" : "Sounds",
+			"type" : 1
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_container",
+			"__Elephant_Schema_Version__" : 0,
+			"blend_map" : [
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				}
+			],
+			"contents_serialize" : [
+				"$bgm_ending"
+			],
+			"gain" : -56.2304803688,
+			"name" : "BgmEnding",
+			"parameters" : [],
+			"parent" : "Sounds"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_container",
+			"__Elephant_Schema_Version__" : 0,
+			"blend_map" : [
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				}
+			],
+			"contents_serialize" : [
+				"$snd_ending"
+			],
+			"gain" : -61.5861697738,
+			"name" : "SfxEnding",
+			"parameters" : [],
+			"parent" : "Sounds"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_container",
+			"__Elephant_Schema_Version__" : 0,
+			"blend_map" : [
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				}
+			],
+			"contents_serialize" : [
+				"$snd_porta_pedr"
+			],
+			"gain" : -78.6371561699,
+			"name" : "SfxStoneDoor",
+			"parameters" : [],
+			"parent" : "Sounds",
+			"type" : 2
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_container",
+			"__Elephant_Schema_Version__" : 0,
+			"blend_map" : [
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				}
+			],
+			"contents_serialize" : [
+				"$bgm_grass_night"
+			],
+			"gain" : -47.3490481856,
+			"loop" : 1,
+			"name" : "BgmGrassNight",
+			"parameters" : [],
+			"parent" : "Sounds"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_container",
+			"__Elephant_Schema_Version__" : 0,
+			"blend_map" : [
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				}
+			],
+			"contents_serialize" : [
+				"$bgm_clouds_night"
+			],
+			"gain" : -65.1080627692,
+			"loop" : 1,
+			"name" : "BgmCloudNight",
+			"parameters" : [],
+			"parent" : "Sounds"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_container",
+			"__Elephant_Schema_Version__" : 0,
+			"blend_map" : [
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				}
+			],
+			"contents_serialize" : [
+				"$bgm_spacenight"
+			],
+			"gain" : -62.4766140838,
+			"loop" : 1,
+			"name" : "BgmSpaceNight",
+			"parameters" : [],
+			"parent" : "Sounds"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_container",
+			"__Elephant_Schema_Version__" : 0,
+			"blend_map" : [
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				}
+			],
+			"contents_serialize" : [
+				"$bgm_flower_night"
+			],
+			"gain" : -77.0751818468,
+			"loop" : 1,
+			"name" : "BgmFlowerNight",
+			"parameters" : [],
+			"parent" : "Sounds"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_container",
+			"__Elephant_Schema_Version__" : 0,
+			"blend_map" : [
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				}
+			],
+			"contents_serialize" : [
+				"$bgm_grass"
+			],
+			"gain" : -54.6071617646,
+			"loop" : 1,
+			"name" : "BgmGrass",
+			"parameters" : [],
+			"parent" : "Sounds"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_container",
+			"__Elephant_Schema_Version__" : 0,
+			"blend_map" : [
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				}
+			],
+			"contents_serialize" : [
+				"$bgm_space"
+			],
+			"gain" : -28.5672262125,
+			"loop" : 1,
+			"name" : "BgmSpace",
+			"parameters" : [],
+			"parent" : "Sounds"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_container",
+			"__Elephant_Schema_Version__" : 0,
+			"blend_map" : [
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				}
+			],
+			"contents_serialize" : [
+				"$bgm_clouds"
+			],
+			"gain" : -60.3772768791,
+			"loop" : 1,
+			"name" : "BgmCloud",
+			"parameters" : [],
+			"parent" : "Sounds"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_container",
+			"__Elephant_Schema_Version__" : 0,
+			"blend_map" : [
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				}
+			],
+			"contents_serialize" : [
+				"$bgm_flower"
+			],
+			"gain" : -48.3138122987,
+			"loop" : 1,
+			"name" : "BgmFlower",
+			"parameters" : [],
+			"parent" : "Sounds"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_container",
+			"__Elephant_Schema_Version__" : 0,
+			"blend_map" : [
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				}
+			],
+			"contents_serialize" : [
+				"$sndStar3"
+			],
+			"gain" : -60.0129757785,
+			"name" : "SfxStar4",
+			"parameters" : [],
+			"parent" : "Sounds",
+			"pitch" : 11.0294117647
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_container",
+			"__Elephant_Schema_Version__" : 0,
+			"blend_map" : [
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				},
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				},
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				},
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				},
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				}
+			],
+			"contents_serialize" : [
+				"$snd_morcego_01",
+				"$snd_morcego_02",
+				"$snd_morcego_03",
+				"$snd_morcego_04",
+				"$snd_morcego_05"
+			],
+			"gain" : -95.7688359499,
+			"name" : "SfxBat",
+			"parameters" : [],
+			"parent" : "Sounds",
+			"pitchmax" : 5.6829268293,
+			"pitchmin" : -5.6829268293
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_container",
+			"__Elephant_Schema_Version__" : 0,
+			"blend_map" : [
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				}
+			],
+			"contents_serialize" : [
+				"$bgm_hub_01"
+			],
+			"gain" : -57.034363493,
+			"loop" : 1,
+			"name" : "BgmHub1",
+			"parameters" : [],
+			"parent" : "Sounds"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_container",
+			"__Elephant_Schema_Version__" : 0,
+			"blend_map" : [
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				}
+			],
+			"contents_serialize" : [
+				"$bgm_hub_02"
+			],
+			"gain" : -65.4187384006,
+			"loop" : 1,
+			"name" : "BgmHub2",
+			"parameters" : [],
+			"parent" : "Sounds"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_container",
+			"__Elephant_Schema_Version__" : 0,
+			"blend_map" : [
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				}
+			],
+			"contents_serialize" : [
+				"$bgm_hub_03"
+			],
+			"gain" : -73.2150900113,
+			"loop" : 1,
+			"name" : "BgmHub3",
+			"parameters" : [],
+			"parent" : "Sounds"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_container",
+			"__Elephant_Schema_Version__" : 0,
+			"blend_map" : [
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				}
+			],
+			"contents_serialize" : [
+				"$bgm_hub_04"
+			],
+			"gain" : -68.3266036802,
+			"loop" : 1,
+			"name" : "BgmHub4",
+			"parameters" : [],
+			"parent" : "Sounds"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_container",
+			"__Elephant_Schema_Version__" : 0,
+			"blend_map" : [
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				}
+			],
+			"contents_serialize" : [
+				"$bgm_hub"
+			],
+			"gain" : -63.4286205321,
+			"loop" : 1,
+			"name" : "BgmHub",
+			"parameters" : [],
+			"parent" : "Sounds"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_container",
+			"__Elephant_Schema_Version__" : 0,
+			"blend_map" : [
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				},
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				},
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				},
+				{
+					"__Elephant_Constructor__" : "class_audio_container_blendmap",
+					"__Elephant_Schema_Version__" : 0
+				}
+			],
+			"contents_serialize" : [
+				"$snd_cogumelo_01",
+				"$snd_cogumelo_02",
+				"$snd_cogumelo_03",
+				"$snd_cogumelo_04"
+			],
+			"gain" : -84.6414892488,
+			"name" : "SfxBoing",
+			"parameters" : [],
+			"parent" : "Sounds",
+			"pitchmax" : 2.0243902439,
+			"pitchmin" : -2.0243902439
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_container",
+			"__Elephant_Schema_Version__" : 0,
+			"blend_map" : [],
+			"contents_serialize" : [
+				"$bgm_dungeon"
+			],
+			"name" : "BgmDungeon",
+			"parameters" : [],
+			"parent" : "Sounds"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_container",
+			"__Elephant_Schema_Version__" : 0,
+			"blend_map" : [],
+			"contents_serialize" : [
+				"$bgm_dungeon_night"
+			],
+			"name" : "BgmDungeonNight",
+			"parameters" : [],
+			"parent" : "Sounds"
+		}
+	],
+	[
+		{
+			"__Elephant_Constructor__" : "class_audio_parameter",
+			"__Elephant_Schema_Version__" : 0,
+			"hooks" : {
+				"__Elephant_Constructor__" : "class_map",
+				"__Elephant_Schema_Version__" : 0
+			},
+			"name" : "NightParameter"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_parameter",
+			"__Elephant_Schema_Version__" : 0,
+			"hooks" : {
+				"__Elephant_Constructor__" : "class_map",
+				"__Elephant_Schema_Version__" : 0
+			},
+			"name" : "HubParameter"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_parameter",
+			"__Elephant_Schema_Version__" : 0,
+			"hooks" : {
+				"BgmHUB" : [
+					{
+						"__Elephant_Constructor__" : "class_audio_hook",
+						"__Elephant_Schema_Version__" : 0,
+						"curve" : {
+							"__Elephant_Constructor__" : "class_audio_hook_curve",
+							"__Elephant_Schema_Version__" : 0,
+							"points" : [
+								{
+									"__Elephant_Constructor__" : "class_audio_hook_curve_point",
+									"__Elephant_Schema_Version__" : 0
+								},
+								{
+									"__Elephant_Constructor__" : "class_audio_hook_curve_point",
+									"__Elephant_Schema_Version__" : 0,
+									"x" : 100,
+									"y" : 100
+								}
+							]
+						},
+						"variable" : "blend"
+					}
+				],
+				"BgmHubOnlyOne" : [
+					{
+						"__Elephant_Constructor__" : "class_audio_hook",
+						"__Elephant_Schema_Version__" : 0,
+						"curve" : {
+							"__Elephant_Constructor__" : "class_audio_hook_curve",
+							"__Elephant_Schema_Version__" : 0,
+							"points" : [
+								{
+									"__Elephant_Constructor__" : "class_audio_hook_curve_point",
+									"__Elephant_Schema_Version__" : 0
+								},
+								{
+									"__Elephant_Constructor__" : "class_audio_hook_curve_point",
+									"__Elephant_Schema_Version__" : 0,
+									"x" : 100,
+									"y" : 100
+								}
+							]
+						},
+						"variable" : "blend"
+					}
+				],
+				"__Elephant_Constructor__" : "class_map",
+				"__Elephant_Schema_Version__" : 0
+			},
+			"name" : "HubParameterOnlyOne"
+		}
+	],
+	[
+		{
+			"__Elephant_Constructor__" : "class_audio_bus",
+			"__Elephant_Schema_Version__" : 0,
+			"children" : [],
+			"name" : "MusicBus"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_bus",
+			"__Elephant_Schema_Version__" : 0,
+			"children" : [],
+			"name" : "SfxBus"
+		}
+	],
+	[
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 3,
+			"path" : "bgm_flower"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 4,
+			"path" : "bgm_flower_night"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"path" : "bgm_clouds"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 2,
+			"path" : "bgm_clouds_night"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 5,
+			"path" : "bgm_grass"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 6,
+			"path" : "bgm_grass_night"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 28,
+			"path" : "sfx_bird_crow"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"path" : "sfx_cloud_01"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 1,
+			"path" : "sfx_cloud_02"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 2,
+			"path" : "sfx_cloud_03"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 3,
+			"path" : "sfx_cloud_04"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 4,
+			"path" : "sfx_luano_death_pause_01"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 5,
+			"path" : "sfx_luano_death_pause_02"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 6,
+			"path" : "sfx_luano_death_pause_03"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 7,
+			"path" : "sfx_luano_death_pause_04"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 8,
+			"path" : "sfx_luano_death_pause_05"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 1,
+			"path" : "sndStar1"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 2,
+			"path" : "sndStar2"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 3,
+			"path" : "sndStar3"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 1,
+			"path" : "sndStarGame"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 2,
+			"path" : "sndStgClear"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 3,
+			"path" : "sndUiChange"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 9,
+			"path" : "sndWalkCloud"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 10,
+			"path" : "sndWalkGrass"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 16,
+			"path" : "sndWalkStone"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 4,
+			"path" : "snd_brokestone"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 12,
+			"path" : "snd_bump"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 13,
+			"path" : "snd_jump_player"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 14,
+			"path" : "snd_kick"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 15,
+			"path" : "snd_switch"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 7,
+			"path" : "bgm_silence"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 5,
+			"path" : "bgm_hub"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 9,
+			"path" : "bgm_spacenight"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 8,
+			"path" : "bgm_space"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 1,
+			"path" : "bgm_intro"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 1,
+			"path" : "bgm_hub_01"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 11,
+			"path" : "bgm_introsfx"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 2,
+			"path" : "bgm_hub_02"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 3,
+			"path" : "bgm_hub_03"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 4,
+			"path" : "bgm_hub_04"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 9,
+			"path" : "snd_morcego_06"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"path" : "snd_cogumelo_01"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 3,
+			"path" : "snd_porta_fecha"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 11,
+			"path" : "snd_morcego_move_02"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 4,
+			"path" : "snd_morcego_01"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 10,
+			"path" : "snd_morcego_move_01"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 2,
+			"path" : "snd_porta_abre"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 7,
+			"path" : "snd_morcego_04"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 2,
+			"path" : "snd_cogumelo_03"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 6,
+			"path" : "snd_morcego_03"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 13,
+			"path" : "snd_morcego_move_04"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 7,
+			"path" : "snd_estrela_secreta_head"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 3,
+			"path" : "snd_cogumelo_04"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 8,
+			"path" : "snd_morcego_05"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 9,
+			"path" : "snd_estrela_secreta_tail"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 1,
+			"path" : "snd_cogumelo_02"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 14,
+			"path" : "bgm_ending"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 12,
+			"path" : "snd_morcego_move_03"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 8,
+			"path" : "snd_estrela_secreta_lp"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 4,
+			"path" : "snd_porta_knock"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 5,
+			"path" : "snd_morcego_02"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 29,
+			"path" : "snd_ending"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 5,
+			"path" : "snd_porta_pedr"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 16,
+			"path" : "bgm_dungeon_night"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 15,
+			"path" : "bgm_dungeon"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 7,
+			"path" : "snd_key"
+		},
+		{
+			"__Elephant_Constructor__" : "class_audio_asset",
+			"__Elephant_Schema_Version__" : 0,
+			"editor_order" : 6,
+			"path" : "snd_warp"
+		}
+	]
+]
