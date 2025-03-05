@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sndWalkGrass",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":1,
+  "conversionMode":0,
+  "duration":0.224875,
+  "name":"sndWalkGrass",
+  "parent":{
+    "name":"Lipinho (gamefile)",
+    "path":"folders/Sounds/Sfx/Lipinho (gamefile).yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sndWalkGrass.wav",
+  "type":1,
+  "volume":0.04,
+}

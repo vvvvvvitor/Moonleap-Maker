@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_porta_abre",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":1,
+  "conversionMode":0,
+  "duration":0.733333,
+  "name":"snd_porta_abre",
+  "parent":{
+    "name":"Doors (gamefile)",
+    "path":"folders/Sounds/Sfx/Doors (gamefile).yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_porta_abre.wav",
+  "type":0,
+  "volume":0.7,
+}

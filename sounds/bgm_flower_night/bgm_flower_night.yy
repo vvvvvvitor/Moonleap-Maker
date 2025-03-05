@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"bgm_flower_night",
+  "audioGroupId":{
+    "name":"agroup_bgm",
+    "path":"audiogroups/agroup_bgm",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":1,
+  "conversionMode":0,
+  "duration":72.0,
+  "name":"bgm_flower_night",
+  "parent":{
+    "name":"Bgm",
+    "path":"folders/Sounds/Bgm.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"bgm_flower_night.wav",
+  "type":1,
+  "volume":1.0,
+}

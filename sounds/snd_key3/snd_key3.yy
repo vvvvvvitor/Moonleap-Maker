@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_key3",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.433333,
+  "name":"snd_key3",
+  "parent":{
+    "name":"Doors (gamefile)",
+    "path":"folders/Sounds/Sfx/Doors (gamefile).yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_key3.wav",
+  "type":1,
+  "volume":1.0,
+}

@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"bgm_spacenight",
+  "audioGroupId":{
+    "name":"agroup_bgm",
+    "path":"audiogroups/agroup_bgm",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":1,
+  "conversionMode":0,
+  "duration":157.09091,
+  "name":"bgm_spacenight",
+  "parent":{
+    "name":"Bgm",
+    "path":"folders/Sounds/Bgm.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"bgm_spacenight.wav",
+  "type":1,
+  "volume":1.0,
+}

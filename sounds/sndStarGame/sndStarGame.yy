@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sndStarGame",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":1,
+  "conversionMode":0,
+  "duration":2.1,
+  "name":"sndStarGame",
+  "parent":{
+    "name":"UI (gamefile)",
+    "path":"folders/Sounds/Sfx/UI (gamefile).yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sndStarGame.wav",
+  "type":1,
+  "volume":1.0,
+}

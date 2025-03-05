@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"bgm_space",
+  "audioGroupId":{
+    "name":"agroup_bgm",
+    "path":"audiogroups/agroup_bgm",
+  },
+  "bitDepth":0,
+  "bitRate":128,
+  "compression":1,
+  "conversionMode":0,
+  "duration":151.07738,
+  "name":"bgm_space",
+  "parent":{
+    "name":"Bgm",
+    "path":"folders/Sounds/Bgm.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"bgm_space.wav",
+  "type":1,
+  "volume":1.0,
+}

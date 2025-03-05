@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"bgm_hub_04",
+  "audioGroupId":{
+    "name":"agroup_bgm",
+    "path":"audiogroups/agroup_bgm",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":1,
+  "conversionMode":0,
+  "duration":96.0,
+  "name":"bgm_hub_04",
+  "parent":{
+    "name":"hub",
+    "path":"folders/Sounds/Bgm/hub.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"bgm_hub_04.wav",
+  "type":1,
+  "volume":1.0,
+}

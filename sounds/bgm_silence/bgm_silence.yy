@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"bgm_silence",
+  "audioGroupId":{
+    "name":"agroup_bgm",
+    "path":"audiogroups/agroup_bgm",
+  },
+  "bitDepth":0,
+  "bitRate":128,
+  "compression":1,
+  "conversionMode":0,
+  "duration":1.383,
+  "name":"bgm_silence",
+  "parent":{
+    "name":"Bgm",
+    "path":"folders/Sounds/Bgm.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"bgm_silence.wav",
+  "type":1,
+  "volume":0.0,
+}

@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_estrela_secreta_head",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":1,
+  "conversionMode":0,
+  "duration":5.666667,
+  "name":"snd_estrela_secreta_head",
+  "parent":{
+    "name":"Sfx",
+    "path":"folders/Sounds/Sfx.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_estrela_secreta_head.wav",
+  "type":0,
+  "volume":1.0,
+}

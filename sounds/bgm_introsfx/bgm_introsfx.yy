@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"bgm_introsfx",
+  "audioGroupId":{
+    "name":"agroup_bgm",
+    "path":"audiogroups/agroup_bgm",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":1,
+  "conversionMode":0,
+  "duration":30.0,
+  "name":"bgm_introsfx",
+  "parent":{
+    "name":"Bgm",
+    "path":"folders/Sounds/Bgm.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"bgm_introsfx.wav",
+  "type":0,
+  "volume":1.0,
+}

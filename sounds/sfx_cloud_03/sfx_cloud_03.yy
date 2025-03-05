@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sfx_cloud_03",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":1,
+  "conversionMode":0,
+  "duration":0.185146,
+  "name":"sfx_cloud_03",
+  "parent":{
+    "name":"Lipinho (gamefile)",
+    "path":"folders/Sounds/Sfx/Lipinho (gamefile).yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sfx_cloud_03.wav",
+  "type":0,
+  "volume":0.2,
+}
