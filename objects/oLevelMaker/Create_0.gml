@@ -419,11 +419,11 @@ function start_level(){
 	
 	switch (style_selected)
 	{
-	case 0: instance_create_layer(0,0,"Instances",o_grass_song)	break;
-	case 1: instance_create_layer(0,0,"Instances",o_cloud_song)	break;
-	case 2: instance_create_layer(0,0,"Instances",o_flower_song)	break;
-	case 3: instance_create_layer(0,0,"Instances",o_space_song)	break;
-	case 4: instance_create_layer(0,0,"Instances",o_dungeon_song)	break;
+		case 0: instance_create_layer(0,0,"Instances",o_grass_song)	break;
+		case 1: instance_create_layer(0,0,"Instances",o_cloud_song)	break;
+		case 2: instance_create_layer(0,0,"Instances",o_flower_song)	break;
+		case 3: instance_create_layer(0,0,"Instances",o_space_song)	break;
+		case 4: instance_create_layer(0,0,"Instances",o_dungeon_song)	break;
 	}
 	
 	for(var _x = 0; _x < room_tile_width; _x++){
