@@ -3,6 +3,7 @@ pressed = function() {
 	with(oLevelMaker)
 	{
 		style_selected = (style_selected + 1) % 5
+		oMakerBack.update_background()
 		scr_update_style()
 	}		
 }
